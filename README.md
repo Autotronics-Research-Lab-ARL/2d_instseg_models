@@ -1,9 +1,9 @@
 # Instance Segmentation
 
 ## models
-- [PANet](https://github.com/ShuLiu1993/PANet)
-- [SOLOv2](https://github.com/WXinlong/SOLO)
-- [SWIN-T](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection)
+- Path Aggregation Network ([PANet](https://github.com/ShuLiu1993/PANet))
+- Segmenting Objects by Locations ([SOLOv2](https://github.com/WXinlong/SOLO))
+- Hierarchical Vision Transformer using Shifted Windows ([SWIN-T](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection))
 
 ## Results
 <table>
