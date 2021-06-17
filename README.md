@@ -12,11 +12,11 @@
         <td><img src='assets/panet_mask_18.gif'></td>
     </tr>
     <tr>
-        <th>PANet</th>
+        <th>SOLOv2</th>
         <td><img src='assets/solo_heavy.gif'></td>
     </tr>
     <tr>
-        <th>PANet</th>
+        <th>SWIN-T</th>
         <td><img src='assets/swin_tiny.gif'></td>
     </tr>
 </table>
